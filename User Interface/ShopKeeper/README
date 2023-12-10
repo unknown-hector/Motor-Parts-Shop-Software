@@ -1,1 +1,12 @@
+When the Shop Owner will open the software, a welcome page asking the user id
+and password will be displayed. Upon logging in, the software will display four
+buttons along with a billing button and an exit button. The four functionalities
+include, Stocks, Sales, Requires Parts, Add parts. The stocks button will show the
+list of current stock of motor parts. The sales button will display the sales statistics
+of the shop. Upon the clicking the exit button, the current user will be logged out
+and the login page will be displayed again. The billing button will direct the user to
+the billing page. The requires parts button will display the motor parts that need to
+be restocked by the end of the day.The add parts page will help in adding the
+recent number of restocked motor parts. The UI is kept simple and understandable
+for the user, so that it can work with it without hassle.
 
